@@ -1,0 +1,44 @@
+{
+    "name": "Simple Darker Theme x7",
+    "description": "Just a simple and darker theme",
+    "authors": [
+        {
+            "name": "Arthur7x7",
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#121212"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1a1a1a"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#242424"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#080808"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#242424"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#242424"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#242424"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#242424"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#7b00ff(35)"
+        ],
+        "TEXT_DANGER": [
+            "#ff1f1f"
+        ],
+    },
+    "rawColors": {
+    },
+    "spec": 2
+}
