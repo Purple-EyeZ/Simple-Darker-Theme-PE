@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "INTERACTIVE_ACTIVE": [
-      "#48ff00"
-      ],
       "INTERACTIVE_HOVER": [
-      "#6c7086"
+      "#48ff00"
       ],
       "INTERACTIVE_MUTED": [
       "#313244"
