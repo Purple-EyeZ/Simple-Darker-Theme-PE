@@ -7,14 +7,8 @@
       }
     ],
     "semanticColors": {
-      "INTERACTIVE_HOVER": [
-      "#48ff00"
-      ],
-      "INTERACTIVE_MUTED": [
-      "#313244"
-      ],
       "INTERACTIVE_NORMAL": [
-      "#bac2de"
+      "#48ff00"
       ],
       "MENTION_BACKGROUND": [
       "#f9e2af"
