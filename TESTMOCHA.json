@@ -7,17 +7,8 @@
       }
     ],
     "semanticColors": {
-      "STATUS_DANGER": [
-      "#48ff00"
-      ],
-      "STATUS_DANGER_BACKGROUND": [
-      "#f38ba8"
-      ],
-      "STATUS_DANGER_TEXT": [
-      "#1e1e2e"
-      ],
       "TEXT_DANGER": [
-      "#f38ba8"
+      "#48ff00"
       ],
       "TEXT_LINK": [
       "#f5e0dc"
