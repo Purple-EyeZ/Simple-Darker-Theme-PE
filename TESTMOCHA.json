@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "BG_BASE_PRIMARY": [
-      "#48ff00"
-      ],
       "BG_BACKDROP": [
-      "#000000b2"
+      "#48ff00"
       ],
       "BG_BASE_SECONDARY": [
       "#181825"
