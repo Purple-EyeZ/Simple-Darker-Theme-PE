@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "BACKGROUND_MOBILE_SECONDARY": [
-      "#11ff00"
-      ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#313244"
+      "#11ff00"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
       "#11111b"
