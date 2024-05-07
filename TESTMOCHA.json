@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "CARD_PRIMARY_BG": [
-      "#48ff00"
-      ],
       "CHANNEL_ICON": [
-      "#7f849c"
+      "#48ff00"
       ],
       "CHANNELS_DEFAULT": [
       "#a6adc8"
