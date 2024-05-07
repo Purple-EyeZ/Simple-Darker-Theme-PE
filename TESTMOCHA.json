@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "BG_BASE_SECONDARY": [
-      "#48ff00"
-      ],
       "CARD_SECONDARY_BG": [
-      "#1e1e2e"
+      "#48ff00"
       ],
       "CARD_PRIMARY_BG": [
       "#1e1e2e"
