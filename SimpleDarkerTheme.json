@@ -34,11 +34,8 @@
         "BACKGROUND_MODIFIER_SELECTED": [
             "#4D7b00ff"
         ],
-        "CONTEXT_MENU_BACKDROP_BACKGROUND": [
-            "#ff474e"
-        ],
         "TEXT_DANGER": [
-            "#ff474e"
+            "#b30006"
         ]
     },
     "rawColors": {
