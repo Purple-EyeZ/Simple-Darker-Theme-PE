@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "TEXT_MUTED": [
-      "#48ff00"
-      ],
       "TEXT_NORMAL": [
-      "#cdd6f4"
+      "#48ff00"
       ],
       "TEXT_PRIMARY": [
       "#cdd6f4"
