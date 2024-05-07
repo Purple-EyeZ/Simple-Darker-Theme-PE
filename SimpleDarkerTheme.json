@@ -25,7 +25,7 @@
         "BACKGROUND_MOBILE_SECONDARY": [
             "#18161d"
         ],
-        "BACKGROUND_MESSAGE_HOVER": @ [
+        "BACKGROUND_MESSAGE_HOVER": [
             "#1a1a1a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
