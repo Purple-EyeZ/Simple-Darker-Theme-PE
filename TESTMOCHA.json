@@ -7,14 +7,8 @@
       }
     ],
     "semanticColors": {
-      "INTERACTIVE_NORMAL": [
-      "#48ff00"
-      ],
-      "MENTION_BACKGROUND": [
-      "#f9e2af"
-      ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#313244"
+      "#48ff00"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#313244"
