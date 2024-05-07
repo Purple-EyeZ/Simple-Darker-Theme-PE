@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "CHANNEL_ICON": [
-      "#48ff00"
-      ],
       "CHANNELS_DEFAULT": [
-      "#a6adc8"
+      "#48ff00"
       ],
       "HEADER_PRIMARY": [
       "#cdd6f4"
