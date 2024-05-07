@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "CHANNELS_DEFAULT": [
-      "#48ff00"
-      ],
       "HEADER_PRIMARY": [
-      "#cdd6f4"
+      "#48ff00"
       ],
       "HEADER_SECONDARY": [
       "#cdd6f4"
