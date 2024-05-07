@@ -3,7 +3,7 @@
     "description": "Just a simple and darker theme",
     "authors": [
         {
-            "name": "Arthur7x7",
+            "name": "Arthur7x7"
         }
     ],
     "semanticColors": {
@@ -36,7 +36,8 @@
         ],
         "TEXT_DANGER": [
             "#ff1f1f"
-        ],
+        ]
     },
+    "rawColors": {},
     "spec": 2
 }
