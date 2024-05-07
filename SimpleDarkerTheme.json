@@ -14,7 +14,7 @@
             "#1a1a1a"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#242424"
+            "#050505"
         ],
         "BACKGROUND_TERTIARY": [
             "#080808"
@@ -23,19 +23,19 @@
             "#242424"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#242424"
+            "#151515"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#242424"
+            "#151515"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#242424"
+            "#151515"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#7b00ff(35)"
+            "#7b00ff"
         ],
         "TEXT_DANGER": [
-            "#ff1f1f"
+            "#ff3d3d"
         ]
     },
     "rawColors": {},
