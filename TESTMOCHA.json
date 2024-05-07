@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#48ff00"
-      ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#cdd6f4"
+      "#48ff00"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#313244"
