@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "BACKGROUND_MESSAGE_HOVER": [
-      "#11ff00"
-      ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#1e1e2e"
+      "#11ff00"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
       "#181825"
