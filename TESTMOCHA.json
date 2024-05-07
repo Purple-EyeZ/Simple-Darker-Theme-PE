@@ -7,14 +7,8 @@
       }
     ],
     "semanticColors": {
-      "SPOILER_REVEALED_BACKGROUND": [
-      "#48ff00"
-      ],
-      "SPOILER_HIDDEN_BACKGROUND": [
-      "#48ff00"
-      ],
       "STATUS_DANGER": [
-      "#f38ba8"
+      "#48ff00"
       ],
       "STATUS_DANGER_BACKGROUND": [
       "#f38ba8"
