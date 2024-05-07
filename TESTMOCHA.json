@@ -7,14 +7,8 @@
       }
     ],
     "semanticColors": {
-      "TEXT_DANGER": [
-      "#48ff00"
-      ],
-      "TEXT_LINK": [
-      "#f5e0dc"
-      ],
       "TEXT_MUTED": [
-      "#6c7086"
+      "#48ff00"
       ],
       "TEXT_NORMAL": [
       "#cdd6f4"
