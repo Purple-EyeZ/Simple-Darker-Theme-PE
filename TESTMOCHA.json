@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#48ff00"
-      ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#313244"
+      "#48ff00"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#cdd6f4"
