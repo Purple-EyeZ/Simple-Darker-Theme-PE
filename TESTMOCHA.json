@@ -7,11 +7,8 @@
       }
     ],
     "semanticColors": {
-      "BACKGROUND_MODIFIER_SELECTED": [
-      "#48ff00"
-      ],
       "BACKGROUND_PRIMARY": [
-      "#1e1e2e"
+      "#48ff00"
       ],
       "BACKGROUND_SECONDARY": [
       "#181825"
