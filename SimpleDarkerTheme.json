@@ -11,33 +11,36 @@
             "#121212"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1a1a1a"
+            "#0e0d11"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#121212"
+            "#09090c"
         ],
         "BACKGROUND_TERTIARY": [
-            "#121212"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#242424"
+            "#080709"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#151515"
+            "#18161d"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#151515"
+            "#18161d"
         ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#151515"
+        "BACKGROUND_MESSAGE_HOVER": @ [
+            "#1a1a1a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#80d1ade6"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#7b00ff"
+            "#4D7b00ff"
         ],
         "TEXT_DANGER": [
-            "#ff3d3d"
+            "#ff474e"
         ]
     },
-    "rawColors": {},
+    "rawColors": {
+        "PRIMARY_600": "#0b080d",
+        "PRIMARY_800": "#080708",
+    },
     "spec": 2
 }
