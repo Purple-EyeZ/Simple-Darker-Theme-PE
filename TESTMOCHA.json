@@ -7,8 +7,8 @@
       }
     ],
     "semanticColors": {
-      "MENTION_BACKGROUND": [
-      "#6c7086"
+      "TEXT_DANGER": [
+      "#f38ba8"
       ]
     },
     "rawColors": {
