@@ -7,6 +7,9 @@
       }
     ],
     "semanticColors": {
+      "YOU_BAR_BG": [
+      "#48ff00"
+      ],
     },
     "rawColors": {
       "BLUE_345": "#48ff00",
