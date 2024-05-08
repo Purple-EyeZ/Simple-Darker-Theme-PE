@@ -7,7 +7,7 @@
       }
     ],
     "semanticColors": {
-      "BACKGROUND_MODIFIER_HOVER": [
+      "BACKGROUND_MODIFIER_SELECTED": [
       "#48ff00"
       ]
     },
