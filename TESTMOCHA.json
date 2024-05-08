@@ -6,11 +6,7 @@
         "name": "TEST"
       }
     ],
-    "semanticColors": {
-      "YOU_BAR_BG": [
-      "#48ff00"
-      ]
-    },
+    "semanticColors": {},
     "rawColors": {
       "BLUE_345": "#48ff00",
       "BLACK_500": "#6c7086",
