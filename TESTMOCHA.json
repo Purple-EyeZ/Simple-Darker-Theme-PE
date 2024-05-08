@@ -6,7 +6,11 @@
         "name": "TEST"
       }
     ],
-    "semanticColors": {},
+    "semanticColors": {
+      "MENTION_BACKGROUND": [
+      "#6c7086"
+      ]
+    },
     "rawColors": {
       "BLUE_345": "#48ff00",
       "BLACK_500": "#6c7086",
