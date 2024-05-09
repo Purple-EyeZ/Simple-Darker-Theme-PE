@@ -7,12 +7,11 @@
       }
     ],
     "semanticColors": {
-      "TEXT_DANGER": [
-      "#f38ba8"
+      "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
+      "#48ff00"
       ]
     },
     "rawColors": {  
-      "PLUM_22": "#48ff00"
     },
     "spec": 2
 }
