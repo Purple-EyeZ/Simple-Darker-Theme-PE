@@ -20,7 +20,7 @@
             "#0c0b0f"
         ],
         "BG_BASE_PRIMARY": [
-            "#16141a"
+            "#0c0b0f"
         ],
         "BG_BASE_SECONDARY": [
             "#110f14"
@@ -30,14 +30,11 @@
         ],
         "CARD_PRIMARY_BG": [
             "#1c1c1c"
-        ],
-        "TEXT_DANGER": [
-            "#b30006"
         ]
     },
     "rawColors": {
         "PRIMARY_600": "#0b080d",
-        "PLUM_17": "18161d",
+        "PLUM_17": "16141a",
         "PLUM_20": "110f14",
         "PRIMARY_800": "#080708"
     },
