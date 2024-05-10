@@ -7,32 +7,32 @@
         }
     ],
     "semanticColors": {
+        "BACKGROUND_ACCENT": [
+            "#c379f1"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#5Ec66bff"
+        ],
         "BACKGROUND_PRIMARY": [
-            "#121212"
+            "#16141a"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0e0d11"
+            "#242424"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#09090c"
+            "#0f0d11"
         ],
-        "BACKGROUND_TERTIARY": [
-            "#080709"
+        "BG_BASE_PRIMARY": [
+            "#16141a"
         ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#18161d"
+        "BG_BASE_SECONDARY": [
+            "#110f14"
         ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#18161d"
+        "CARD_SECONDARY_BG": [
+            "#242424"
         ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#1a1a1a"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#80d1ade6"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#4D7b00ff"
+        "CARD_PRIMARY_BG": [
+            "#242424"
         ],
         "TEXT_DANGER": [
             "#b30006"
@@ -40,6 +40,8 @@
     },
     "rawColors": {
         "PRIMARY_600": "#0b080d",
+        "PLUM_17": "18161d",
+        "PLUM_20": "110f14",
         "PRIMARY_800": "#080708"
     },
     "spec": 2
