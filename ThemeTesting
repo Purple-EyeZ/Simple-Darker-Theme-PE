@@ -1,6 +1,6 @@
 {
-    "name": "Simple Darker Theme x7",
-    "description": "Just a simple and darker theme",
+    "name": "Theme Testing x7",
+    "description": "Just a theme test",
     "authors": [
         {
             "name": "Arthur7x7"
@@ -29,6 +29,18 @@
             "#1c1c1c"
         ],
         "CARD_PRIMARY_BG": [
+            "#1c1c1c"
+        ],
+        "EMBED_BACKGROUND_ALTERNATE": [
+            "#0dff00"
+        ],
+        "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
+            "#0dff00"
+        ],
+        "EMBED_BACKGROUND": [
+            "#0dff00"
+        ],
+        "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
             "#1c1c1c"
         ]
     },
