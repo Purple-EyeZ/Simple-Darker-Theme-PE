@@ -14,7 +14,7 @@
             "1eff00"
         ],
         "BACKGROUND_SECONDARY": [
-            "#242424"
+            "#212121"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#0a090c"
@@ -26,10 +26,10 @@
             "#110f14"
         ],
         "CARD_SECONDARY_BG": [
-            "#242424"
+            "#1c1c1c"
         ],
         "CARD_PRIMARY_BG": [
-            "#242424"
+            "#1c1c1c"
         ],
         "TEXT_DANGER": [
             "#b30006"
