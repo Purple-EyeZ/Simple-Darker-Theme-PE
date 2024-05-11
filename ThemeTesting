@@ -20,13 +20,10 @@
             "#1c1c1c"
         ],
         "CARD_PRIMARY_BG": [
-            "#4D1C1C1C"
+            "#4D0DFF00"
         ],
         "EMBED_BACKGROUND_ALTERNATE": [
             "#161618"
-        ],
-        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#0dff00"
         ]
     },
     "rawColors": {
