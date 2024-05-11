@@ -7,14 +7,8 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_PRIMARY": [
-            "1eff00"
-        ],
         "BACKGROUND_SECONDARY": [
             "#212121"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#0dff00"
         ],
         "BG_BASE_PRIMARY": [
             "#0d0b0f"
@@ -28,19 +22,13 @@
         "CARD_PRIMARY_BG": [
             "#1c1c1c"
         ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#363636"
-        ],
         "EMBED_BACKGROUND_ALTERNATE": [
             "#161618"
         ],
         "EMBED_BACKGROUND": [
             "#161618"
         ],
-        "BACKGROUND_TERTIARY": [
-            "#0dff00"
-        ],
-        "REDESIGN_INPUT_CONTROL_SELECTED": [
+        "EXPRESSION_PICKER_BG": [
             "#0dff00"
         ]
     },
