@@ -25,7 +25,7 @@
         "EMBED_BACKGROUND_ALTERNATE": [
             "#161618"
         ],
-        "PANEL_BG": [
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
             "#0dff00"
         ]
     },
