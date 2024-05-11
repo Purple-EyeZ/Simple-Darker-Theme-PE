@@ -14,7 +14,7 @@
             "#212121"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0c0b0f"
+            "#0dff00"
         ],
         "BG_BASE_PRIMARY": [
             "#0d0b0f"
@@ -36,6 +36,9 @@
         ],
         "EMBED_BACKGROUND": [
             "#161618"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0dff00"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#0dff00"
