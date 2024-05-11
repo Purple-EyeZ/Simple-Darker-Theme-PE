@@ -7,15 +7,6 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_SECONDARY": [
-            "#212121"
-        ],
-        "BG_BASE_PRIMARY": [
-            "#0d0b0f"
-        ],
-        "BG_BASE_SECONDARY": [
-            "#110f14"
-        ],
         "CARD_SECONDARY_BG": [
             "#800DFF00"
         ],
@@ -26,11 +17,6 @@
             "#161618"
         ]
     },
-    "rawColors": {
-        "PRIMARY_600": "#0b080d",
-        "PLUM_17": "16141a",
-        "PLUM_20": "110f14",
-        "PRIMARY_800": "#080708"
-    },
+    "rawColors": {},
     "spec": 2
 }
