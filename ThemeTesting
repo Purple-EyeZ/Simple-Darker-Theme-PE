@@ -31,17 +31,17 @@
         "CARD_PRIMARY_BG": [
             "#1c1c1c"
         ],
-        "EMBED_BACKGROUND_ALTERNATE": [
+        "BACKGROUND_MODIFIER_ACCENT_2": [
             "#0dff00"
         ],
-        "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
+        "CHANNELTEXTAREA_BACKGROUND": [
             "#0dff00"
         ],
-        "EMBED_BACKGROUND": [
+        "CHAT_BACKGROUND": [
             "#0dff00"
         ],
         "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
-            "#1c1c1c"
+            "#0dff00"
         ]
     },
     "rawColors": {
