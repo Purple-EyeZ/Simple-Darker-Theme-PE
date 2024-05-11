@@ -31,6 +31,9 @@
         "CARD_PRIMARY_BG": [
             "#1b1b1d"
         ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#8c8c8c45"
+        ],
         "EMBED_BACKGROUND_ALTERNATE": [
             "#161618"
         ],
