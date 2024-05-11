@@ -7,11 +7,8 @@
         }
     ],
     "semanticColors": {
-        "CARD_SECONDARY_BG": [
-            "#4DC11025"
-        ],
-        "CARD_PRIMARY_BG": [
-            "#4DC11025"
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#08ff0070"
         ]
     },
     "rawColors": {},
