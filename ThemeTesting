@@ -8,10 +8,10 @@
     ],
     "semanticColors": {
         "CARD_SECONDARY_BG": [
-            "#4DC11095"
+            "#4DC11050"
         ],
         "CARD_PRIMARY_BG": [
-            "#4DC11095"
+            "#4DC11050"
         ]
     },
     "rawColors": {},
