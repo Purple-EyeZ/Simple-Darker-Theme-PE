@@ -7,10 +7,12 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_MODIFIER_ACCENT": [
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
             "#11ff00"
         ]
     },
-    "rawColors": {},
+    "rawColors": {
+        "PLUM_16": "#11ff00"
+    },
     "spec": 2
 }
