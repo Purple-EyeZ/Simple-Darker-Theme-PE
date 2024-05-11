@@ -32,7 +32,7 @@
             "#1b1b1d"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#8c8c8c45"
+            "#8c8c8c25"
         ],
         "EMBED_BACKGROUND_ALTERNATE": [
             "#161618"
@@ -46,7 +46,7 @@
         "PLUM_17": "16141a",
         "PLUM_20": "111113",
         "PRIMARY_800": "#080708",
-        "PLUM_24": "#2e2e2e"
+        "PLUM_24": "#262626"
     },
     "spec": 2
 }
