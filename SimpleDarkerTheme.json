@@ -39,14 +39,18 @@
         ],
         "EMBED_BACKGROUND": [
             "#161618"
+        ],
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+        "#1f1f1f"
         ]
     },
     "rawColors": {
         "PRIMARY_600": "#0b080d",
-        "PRIMARY_660": "#242424"
+        "PRIMARY_660": "#1f1f1f",
+        "PRIMARY_800": "#080708",
+        "PLUM_16": "#121113",
         "PLUM_17": "16141a",
         "PLUM_20": "111113",
-        "PRIMARY_800": "#080708",
         "PLUM_24": "#242424"
     },
     "spec": 2
