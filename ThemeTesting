@@ -28,14 +28,14 @@
         "CARD_PRIMARY_BG": [
             "#1c1c1c"
         ],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#0dff00"
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#c4c4c4"
         ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#0dff00"
+        "EMBED_BACKGROUND_ALTERNATE": [
+            "#ffffff"
         ],
-        "THREAD_CHANNEL_SPINE": [
-            "#0dff00"
+        "EMBED_BACKGROUND": [
+            "#ffffff"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#0dff00"
