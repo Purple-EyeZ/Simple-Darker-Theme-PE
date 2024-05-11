@@ -7,9 +7,6 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_ACCENT": [
-            "#c379f1"
-        ],
         "BACKGROUND_PRIMARY": [
             "1eff00"
         ],
@@ -31,16 +28,16 @@
         "CARD_PRIMARY_BG": [
             "#1c1c1c"
         ],
-        "BACKGROUND_MODIFIER_ACCENT_2": [
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#0dff00"
         ],
-        "CHANNELTEXTAREA_BACKGROUND": [
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#0dff00"
         ],
-        "CHAT_BACKGROUND": [
+        "THREAD_CHANNEL_SPINE": [
             "#0dff00"
         ],
-        "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
+        "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#0dff00"
         ]
     },
