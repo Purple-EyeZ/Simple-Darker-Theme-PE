@@ -25,16 +25,15 @@
         "EMBED_BACKGROUND_ALTERNATE": [
             "#161618"
         ],
-        "EMBED_BACKGROUND": [
-            "#161618"
+        "PANEL_BG": [
+            "#0dff00"
         ]
     },
     "rawColors": {
         "PRIMARY_600": "#0b080d",
         "PLUM_17": "16141a",
         "PLUM_20": "110f14",
-        "PRIMARY_800": "#080708",
-        "PLUM_24": "#0dff00"
+        "PRIMARY_800": "#080708"
     },
     "spec": 2
 }
