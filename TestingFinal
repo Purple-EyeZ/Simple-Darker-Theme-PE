@@ -41,24 +41,24 @@
             "#161618"
         ],
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#1f1f1f"
+            "#141315"
         ],
         "PANEL_BG": [
-            "#00ff0d"
+            "#0f0f10"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#202022"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#202022"
+            "#252527"
         ]
     },
     "rawColors": {
         "PRIMARY_600": "#0b080d",
-        "PRIMARY_660": "#1f1f1f",
+        "PRIMARY_660": "#141315",
         "PRIMARY_800": "#00ff0d",
         "PLUM_16": "#121113",
-        "PLUM_17": "16141a",
+        "PLUM_17": "161519",
         "PLUM_20": "0c0c0d",
         "PLUM_24": "#242424"
     },
