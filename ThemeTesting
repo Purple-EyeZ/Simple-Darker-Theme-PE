@@ -8,11 +8,11 @@
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#11ff00"
+            "#0c0c0d"
         ]
     },
     "rawColors": {
-        "PLUM_16": "#11ff00"
+        "PRIMARY_800": "#11ff00"
     },
     "spec": 2
 }
