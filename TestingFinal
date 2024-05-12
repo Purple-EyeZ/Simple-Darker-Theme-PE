@@ -23,13 +23,13 @@
             "#0c0c0d"
         ],
         "BG_BASE_SECONDARY": [
-            "#0f0f10"
+            "#0c0c0d"
         ],
         "CARD_SECONDARY_BG": [
-            "#1c1c1c"
+            "#141315"
         ],
         "CARD_PRIMARY_BG": [
-            "#1b1b1d"
+            "#141315"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#8c8c8c20"
