@@ -41,7 +41,16 @@
             "#161618"
         ],
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-        "#1f1f1f"
+            "#1f1f1f"
+        ],
+        "PANEL_BG": [
+            "#111113"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#202022"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#202022"
         ]
     },
     "rawColors": {
@@ -50,7 +59,7 @@
         "PRIMARY_800": "#080708",
         "PLUM_16": "#121113",
         "PLUM_17": "16141a",
-        "PLUM_20": "111113",
+        "PLUM_20": "0c0c0e",
         "PLUM_24": "#242424"
     },
     "spec": 2
