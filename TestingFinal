@@ -23,7 +23,7 @@
             "#0c0c0d"
         ],
         "BG_BASE_SECONDARY": [
-            "#110f14"
+            "#0f0f10"
         ],
         "CARD_SECONDARY_BG": [
             "#1c1c1c"
@@ -59,7 +59,7 @@
         "PRIMARY_800": "#080708",
         "PLUM_16": "#121113",
         "PLUM_17": "16141a",
-        "PLUM_20": "0c0c0e",
+        "PLUM_20": "0c0c0d",
         "PLUM_24": "#242424"
     },
     "spec": 2
