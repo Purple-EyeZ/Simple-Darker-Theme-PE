@@ -35,8 +35,6 @@
             "#00ff00"
         ]
     },
-    "rawColors": {
-        "PRIMARY_800": "#0f0f0f"
-    },
+    "rawColors": {},
     "spec": 2
 }
