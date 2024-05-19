@@ -1,18 +1,42 @@
 {
-    "name": "Theme Testing x7",
+    "name": "Theme Testing PE",
     "description": "Just a theme test",
     "authors": [
         {
-            "name": "Arthur7x7"
+            "name": "Purple_Ξye™"
         }
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
             "#0c0c0d"
+        ],
+        "INPUT_PLACEHOLDER_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_ACTIVE_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_ALT_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_SELECTED_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#00ff00"
+        ],
+        "TEXT_BRAND": [
+            "#00ff00"
         ]
     },
     "rawColors": {
-        "PRIMARY_800": "#11ff00"
+        "PRIMARY_800": "#0f0f0f"
     },
     "spec": 2
 }
