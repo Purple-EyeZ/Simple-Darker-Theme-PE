@@ -50,7 +50,7 @@
             "#0f0f10"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#5d0693"
+            "#8223be"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#7b00c7"
@@ -59,10 +59,10 @@
             "#831fc150"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#831fc1"
+            "#8223be"
         ],
         "INTERACTIVE_NORMAL": [
-            "#831fc150"
+            "#8223be70"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#7d479e"
