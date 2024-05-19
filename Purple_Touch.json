@@ -16,9 +16,6 @@
         "BACKGROUND_SECONDARY": [
             "#641e8f"
         ],
-        "BACKGROUND_TERTIARY": [
-            "#581b7e"
-        ],
         "BACKGROUND_SECONDARY_ALT": [
             "#0c0c0e"
         ],
@@ -66,12 +63,6 @@
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#7d479e"
-        ],
-        "HEADER_PRIMARY": [
-            "#e4e5e8"
-        ],
-        "HEADER_SECONDARY": [
-            "#9597a3"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
             "#e4e5e8"
