@@ -84,6 +84,9 @@
         ],
         "TEXT_SECONDARY": [
             "#9597a3"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#c7c8ce"
         ]
     },
     "rawColors": {
