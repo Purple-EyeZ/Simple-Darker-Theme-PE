@@ -10,18 +10,6 @@
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
             "#0c0c0d"
         ],
-        "INPUT_PLACEHOLDER_TEXT": [
-            "#00ff00"
-        ],
-        "REDESIGN_BUTTON_ACTIVE_TEXT": [
-            "#00ff00"
-        ],
-        "REDESIGN_BUTTON_PRIMARY_ALT_TEXT": [
-            "#00ff00"
-        ],
-        "REDESIGN_BUTTON_PRIMARY_TEXT": [
-            "#00ff00"
-        ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#00ff00"
         ],
