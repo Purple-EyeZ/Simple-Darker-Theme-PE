@@ -80,14 +80,6 @@
             "#c7c8ce"
         ]
     },
-    "rawColors": {
-        "PRIMARY_600": "#0b080d",
-        "PRIMARY_660": "#141315",
-        "PRIMARY_800": "#3f0764",
-        "PLUM_16": "#50067f",
-        "PLUM_17": "161519",
-        "PLUM_20": "0c0c0d",
-        "PLUM_24": "#242424"
-    },
+    "rawColors": {},
     "spec": 2
 }
