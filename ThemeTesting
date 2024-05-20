@@ -7,13 +7,85 @@
         }
     ],
     "semanticColors": {
-        "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#00fa0c"
+        "BACKGROUND_ACCENT": [
+            "#2e2e2e"
         ],
-        "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#00fa0c"
+        "BACKGROUND_PRIMARY": [
+            "0c0c0d"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#212121"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0c0c0e"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#0c0c0d"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#0c0c0d"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#141315"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#141315"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#8c8c8c20"
+        ],
+        "EMBED_BACKGROUND_ALTERNATE": [
+            "#161618"
+        ],
+        "EMBED_BACKGROUND": [
+            "#161618"
+        ],
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#141315"
+        ],
+        "PANEL_BG": [
+            "#0f0f10"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#8223be"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#7b00c7"
+        ],
+        "TEXT_NORMAL": [
+            "#dbdee1"
+        ],
+        "TEXT_PRIMARY": [
+            "#dbdee1"
+        ],
+        "TEXT_SECONDARY": [
+            "#b5bac1"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#dbdee1"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#7d479e"
+        ],
+        "CHANNEL_ICON": [
+            "#831fc150"
+        ],
+        "BG_BRAND": [
+            "#5865f2"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#8223be"
         ]
     },
-    "rawColors": {},
+    "rawColors": {
+        "PRIMARY_600": "#0b080d",
+        "PRIMARY_660": "#141315",
+        "PRIMARY_800": "#171618",
+        "PLUM_16": "#121113",
+        "PLUM_17": "161519",
+        "PLUM_20": "0c0c0d",
+        "PLUM_24": "#242424",
+        "BRAND_500": "#8223be"
+    },
     "spec": 2
 }
