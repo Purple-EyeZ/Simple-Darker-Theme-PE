@@ -66,6 +66,9 @@
         ],
         "INTERACTIVE_ACTIVE": [
             "#8223be"
+        ],
+        "REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#8223be"
         ]
     },
     "rawColors": {},
