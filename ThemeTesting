@@ -7,13 +7,7 @@
         }
     ],
     "semanticColors": {
-        "CONTENT_INVENTORY_MEDIA_SEEKBAR_CONTAINER": [
-            "#00fa0c"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#00fa0c"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
             "#00fa0c"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
