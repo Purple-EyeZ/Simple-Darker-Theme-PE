@@ -7,9 +7,6 @@
         }
     ],
     "semanticColors": {
-        "REDESIGN_BUTTON_TERTIARY_PRESSED_TEXT": [
-            "#00fa0c"
-        ],
         "CONTENT_INVENTORY_MEDIA_SEEKBAR_CONTAINER": [
             "#00fa0c"
         ],
@@ -17,9 +14,6 @@
             "#00fa0c"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
-            "#00fa0c"
-        ],
-        "REDESIGN_BUTTON_TERTIARY_TEXT": [
             "#00fa0c"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
