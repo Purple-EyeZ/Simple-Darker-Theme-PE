@@ -75,6 +75,9 @@
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
             "#8223be"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#8223be"
         ]
     },
     "rawColors": {
