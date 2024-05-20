@@ -69,6 +69,54 @@
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#8223be"
+        ],
+        "INPUT_PLACEHOLDER_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_ACTIVE_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_ALT_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_SELECTED_TEXT": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#00ff00"
+        ],
+        "TEXT_BRAND": [
+            "#00ff00"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_PRESSED_TEXT": [
+            "#dddee1"
+        ],
+        "CONTENT_INVENTORY_MEDIA_SEEKBAR_CONTAINER": [
+            "#dddee1"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#dddee1"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#dddee1"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_PRESSED_TEXT": [
+            "#dddee1"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#dddee1"
+        ],
+        "TEXT_NORMAL": [
+            "#dddee1"
+        ],
+        "TEXT_PRIMARY": [
+            "#dddee1"
         ]
     },
     "rawColors": {
