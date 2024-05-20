@@ -63,6 +63,9 @@
         ],
         "INTERACTIVE_NORMAL": [
             "#8223be70"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#8223be"
         ]
     },
     "rawColors": {},
