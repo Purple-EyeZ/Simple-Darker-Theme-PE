@@ -64,6 +64,9 @@
         "INTERACTIVE_ACTIVE": [
             "#8335f8"
         ],
+        "INTERACTIVE_NORMAL": [
+            "#c7c8ce"
+        ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#8223be"
         ]
@@ -72,7 +75,7 @@
         "PRIMARY_600": "#0b080d",
         "PRIMARY_660": "#141315",
         "PRIMARY_800": "#171618",
-        "PLUM_6": "#b248f4",
+        "PLUM_6": "#8335f8",
         "PLUM_16": "#121113",
         "PLUM_17": "161519",
         "PLUM_20": "0c0c0d",
