@@ -7,11 +7,41 @@
         }
     ],
     "semanticColors": {
-        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#0c0c0d"
+        "BG_BRAND": [
+            "#00fa0c"
         ],
-        "REDESIGN_BUTTON_SECONDARY_TEXT": [
-            "#c7c8ce"
+        "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
+            "#00fa0c"
+        ],
+        "BUTTON_OUTLINE_BRAND_BORDER": [
+            "#00fa0c"
+        ],
+        "BUTTON_OUTLINE_BRAND_BORDER_HOVER": [
+            "#00fa0c"
+        ],
+        "MENTION_BACKGROUND": [
+            "#00fa0c"
+        ],
+        "POLLS_VOTED_FILL": [
+            "#00fa0c"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND": [
+            "#00fa0c"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+            "#00fa0c"
+        ],
+        "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
+            "#00fa0c"
+        ],
+        "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
+            "#00fa0c"
+        ],
+        "REDESIGN_BUTTON_SELECTED_TEXT": [
+            "#00fa0c"
+        ],
+        "REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#00fa0c"
         ]
     },
     "rawColors": {},
