@@ -46,24 +46,6 @@
         "PANEL_BG": [
             "#0f0f10"
         ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#8223be"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#7b00c7"
-        ],
-        "CHANNEL_ICON": [
-            "#831fc150"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#8223be"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#8223be70"
-        ],
-        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#7d479e"
-        ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
             "#e4e5e8"
         ],
