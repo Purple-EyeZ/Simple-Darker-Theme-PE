@@ -77,10 +77,10 @@
             "#9233ff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#00FF00"
+            "#9233ff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#9233ff"
+            "#00FF00"
         ]
     },
     "rawColors": {
