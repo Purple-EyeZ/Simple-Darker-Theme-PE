@@ -74,13 +74,13 @@
             "#5865f2"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#851aff"
+            "#9233ff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#851aff"
+            "#9233ff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#851aff"
+            "#9233ff"
         ]
     },
     "rawColors": {
@@ -91,7 +91,7 @@
         "PLUM_17": "161519",
         "PLUM_20": "0c0c0d",
         "PLUM_24": "#242424",
-        "BRAND_500": "#8223be"
+        "BRAND_500": "#9233ff"
     },
     "spec": 2
 }
