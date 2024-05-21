@@ -47,7 +47,7 @@
             "#0f0f10"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#8223be"
+            "#520099"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#7b00c7"
@@ -77,10 +77,10 @@
             "#8223be"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#520099"
+            "#851aff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#520099"
+            "#851aff"
         ]
     },
     "rawColors": {
