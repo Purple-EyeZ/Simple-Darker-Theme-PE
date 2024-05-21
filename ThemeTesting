@@ -65,7 +65,7 @@
             "#dbdee1"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#a037e1"
+            "#801bf3"
         ],
         "CHANNEL_ICON": [
             "#831fc150"
@@ -83,7 +83,7 @@
             "#9233ff"
         ],
         "CHANNEL_ICON": [
-            "#9233ff75"
+            "#9233ff65"
         ]
     },
     "rawColors": {
@@ -91,7 +91,7 @@
         "PRIMARY_660": "#141315",
         "PRIMARY_800": "#171618",
         "PLUM_16": "#121113",
-        "PLUM_17": "13131695",
+        "PLUM_17": "13131699",
         "PLUM_20": "0c0c0d",
         "PLUM_24": "#242424",
         "BRAND_500": "#9233ff"
