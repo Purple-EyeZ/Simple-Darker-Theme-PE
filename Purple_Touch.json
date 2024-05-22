@@ -7,11 +7,14 @@
         }
     ],
     "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#5300b390"
+        ],
         "BACKGROUND_ACCENT": [
             "#2e2e2e"
         ],
         "BACKGROUND_PRIMARY": [
-            "0c0c0d"
+            "#0c0c0d"
         ],
         "BACKGROUND_SECONDARY": [
             "#212121"
@@ -46,49 +49,53 @@
         "PANEL_BG": [
             "#0f0f10"
         ],
-        "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#e4e5e8"
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#4f0094"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#4f0094"
         ],
         "TEXT_NORMAL": [
-            "#c7c8ce"
+            "#dbdee1"
         ],
         "TEXT_PRIMARY": [
-            "#c7c8ce"
+            "#dbdee1"
         ],
         "TEXT_SECONDARY": [
-            "#9597a3"
+            "#b5bac1"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
-            "#c7c8ce"
+            "#dbdee1"
         ],
-        "INTERACTIVE_ACTIVE": [
-            "#8335f8"
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#801bf3"
         ],
-        "INTERACTIVE_NORMAL": [
-            "#c7c8ce"
-        ],
-        "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#8223be"
-        ],
-        "REDESIGN_BUTTON_TERTIARY_PRESSED_TEXT": [
-            "#dddee1"
-        ],
-        "CONTENT_INVENTORY_MEDIA_SEEKBAR_CONTAINER": [
-            "#dddee1"
+        "BG_BRAND": [
+            "#5865f2"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#dddee1"
+            "#9233ff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#9233ff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#9233ff"
+        ],
+        "CHANNEL_ICON": [
+            "#9233ff65"
         ]
     },
     "rawColors": {
         "PRIMARY_600": "#0b080d",
         "PRIMARY_660": "#141315",
         "PRIMARY_800": "#171618",
-        "PLUM_6": "#8335f8",
         "PLUM_16": "#121113",
-        "PLUM_17": "161519",
+        "PLUM_17": "131316",
         "PLUM_20": "0c0c0d",
-        "PLUM_24": "#242424"
+        "PLUM_24": "#242424",
+        "BRAND_360": "#9233ff",
+        "BRAND_500": "#9233ff"
     },
     "spec": 2
 }
