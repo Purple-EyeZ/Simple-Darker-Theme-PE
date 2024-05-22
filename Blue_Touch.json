@@ -53,25 +53,25 @@
             "#161618"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#141cff"
+            "#1e25f6"
         ],
         "INTERACTIVE_NORMAL": [
-            "#141cff"
+            "#1e25f6"
         ],
         "PANEL_BG": [
             "#0f0f10"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#002094"
+            "#071a88"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#002094"
+            "#071a88"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#141cff"
+            "#1e25f6"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#1b3bf3"
@@ -87,8 +87,8 @@
         ]
     },
     "rawColors": {
-        "BRAND_360": "#141cff",
-        "BRAND_500": "#141cff",
+        "BRAND_360": "#1e25f6",
+        "BRAND_500": "#1e25f6",
         "PLUM_16": "#121113",
         "PLUM_17": "#131316",
         "PLUM_20": "#0c0c0d",
