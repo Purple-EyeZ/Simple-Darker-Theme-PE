@@ -7,11 +7,14 @@
         }
     ],
     "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#9233ff"
+        ],
         "BACKGROUND_ACCENT": [
             "#2e2e2e"
         ],
         "BACKGROUND_PRIMARY": [
-            "0c0c0d"
+            "#0c0c0d"
         ],
         "BACKGROUND_SECONDARY": [
             "#212121"
@@ -50,7 +53,7 @@
             "#470085"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#520099"
+            "#360066"
         ],
         "TEXT_NORMAL": [
             "#dbdee1"
