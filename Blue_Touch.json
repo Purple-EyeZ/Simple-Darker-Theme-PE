@@ -1,0 +1,101 @@
+{
+    "name": "SDT BLUE Touch TESTING",
+    "description": "BLUE Touch TESTING",
+    "authors": [
+        {
+            "name": "Purple_Ξye™"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#141315"
+        ],
+        "ANDROID_RIPPLE": [
+            "#0033b3"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#2e2e2e"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#8c8c8c20"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#0c0c0d"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#212121"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0c0c0e"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#0c0c0d"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#0c0c0d"
+        ],
+        "BG_BRAND": [
+            "#5865f2"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#141315"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#141315"
+        ],
+        "CHANNEL_ICON": [
+            "#3365ff66"
+        ],
+        "EMBED_BACKGROUND": [
+            "#161618"
+        ],
+        "EMBED_BACKGROUND_ALTERNATE": [
+            "#161618"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#3365ff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#3365ff"
+        ],
+        "PANEL_BG": [
+            "#0f0f10"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#004f94"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#004f94"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#dbdee1"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#3365ff"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#1b3bf3"
+        ],
+        "TEXT_NORMAL": [
+            "#dbdee1"
+        ],
+        "TEXT_PRIMARY": [
+            "#dbdee1"
+        ],
+        "TEXT_SECONDARY": [
+            "#b5bac1"
+        ]
+    },
+    "rawColors": {
+        "BRAND_360": "#3365ff",
+        "BRAND_500": "#3365ff",
+        "PLUM_16": "#121113",
+        "PLUM_17": "#131316",
+        "PLUM_20": "#0c0c0d",
+        "PLUM_24": "#242424",
+        "PRIMARY_600": "#0b080d",
+        "PRIMARY_660": "#141315",
+        "PRIMARY_800": "#171618"
+    },
+    "spec": 2
+}
