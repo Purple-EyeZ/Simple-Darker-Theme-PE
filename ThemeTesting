@@ -8,7 +8,7 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#9233ff"
+            "#a352ff95"
         ],
         "BACKGROUND_ACCENT": [
             "#2e2e2e"
@@ -50,10 +50,10 @@
             "#0f0f10"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#470085"
+            "#4f0094"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#360066"
+            "#4f0094"
         ],
         "TEXT_NORMAL": [
             "#dbdee1"
