@@ -3,12 +3,18 @@
     "description": "Just a simple and darker theme",
     "authors": [
         {
-            "name": "Arthur7x7"
+            "name": "Purple_Ξye™"
         }
     ],
     "semanticColors": {
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#141315"
+        ],
         "BACKGROUND_ACCENT": [
             "#2e2e2e"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#8c8c8c20"
         ],
         "BACKGROUND_PRIMARY": [
             "0c0c0d"
@@ -23,44 +29,38 @@
             "#0c0c0d"
         ],
         "BG_BASE_SECONDARY": [
-            "#110f14"
-        ],
-        "CARD_SECONDARY_BG": [
-            "#1c1c1c"
+            "#0c0c0d"
         ],
         "CARD_PRIMARY_BG": [
-            "#1b1b1d"
+            "#141315"
         ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#8c8c8c20"
-        ],
-        "EMBED_BACKGROUND_ALTERNATE": [
-            "#161618"
+        "CARD_SECONDARY_BG": [
+            "#141315"
         ],
         "EMBED_BACKGROUND": [
             "#161618"
         ],
-        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#1f1f1f"
+        "EMBED_BACKGROUND_ALTERNATE": [
+            "#161618"
         ],
         "PANEL_BG": [
-            "#111113"
+            "#0f0f10"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#202022"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#202022"
+            "#2a2a2d"
         ]
     },
     "rawColors": {
-        "PRIMARY_600": "#0b080d",
-        "PRIMARY_660": "#1f1f1f",
-        "PRIMARY_800": "#080708",
         "PLUM_16": "#121113",
-        "PLUM_17": "16141a",
-        "PLUM_20": "0c0c0e",
-        "PLUM_24": "#242424"
+        "PLUM_17": "161519",
+        "PLUM_20": "0c0c0d",
+        "PLUM_24": "#242424",
+        "PRIMARY_600": "#0b080d",
+        "PRIMARY_660": "#141315",
+        "PRIMARY_800": "#171618"
     },
     "spec": 2
 }
