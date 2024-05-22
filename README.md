@@ -3,6 +3,7 @@
 A simple darker theme for Pyoncord/Bunny
 
 ⚫ This is not an Amoled theme, it's a fairly dark theme designed to stay close to the base application without major modifications
+
 - **It's simply darker**
 
 🟣 I created another variant with a touch of purple for those who want something more colorful
