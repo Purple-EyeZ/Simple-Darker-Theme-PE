@@ -11,7 +11,7 @@
             "#141315"
         ],
         "ANDROID_RIPPLE": [
-            "#0033b3"
+            "#00336690"
         ],
         "BACKGROUND_ACCENT": [
             "#2e2e2e"
@@ -44,7 +44,7 @@
             "#141315"
         ],
         "CHANNEL_ICON": [
-            "#3365ff66"
+            "#00339966"
         ],
         "EMBED_BACKGROUND": [
             "#161618"
@@ -53,28 +53,28 @@
             "#161618"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#1b3bf3"
+            "#003399"
         ],
         "INTERACTIVE_NORMAL": [
-            "#3365ff"
+            "#003399"
         ],
         "PANEL_BG": [
             "#0f0f10"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#001a99"
+            "#002266"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#001a99"
+            "#002266"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#3365ff"
+            "#003399"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#1b3bf3"
+            "#0011b3"
         ],
         "TEXT_NORMAL": [
             "#dbdee1"
@@ -87,8 +87,8 @@
         ]
     },
     "rawColors": {
-        "BRAND_360": "#3365ff",
-        "BRAND_500": "#3365ff",
+        "BRAND_360": "#003399",
+        "BRAND_500": "#003399",
         "PLUM_16": "#121113",
         "PLUM_17": "#131316",
         "PLUM_20": "#0c0c0d",
