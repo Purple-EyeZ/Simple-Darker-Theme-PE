@@ -76,6 +76,9 @@
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#b3003b"
         ],
+        "TEXT_DANGER": [
+            "#bc1010"
+        ],
         "TEXT_NORMAL": [
             "#dbdee1"
         ],
