@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Poppins",
+    "previewText": "Geometric sans serif typefaces have always been popular.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "?raw=1",
+        "ggsans-Bold": "?raw=1",
+        "ggsans-BoldItalic": "?raw=1",
+        "ggsans-ExtraBold": "?raw=1",
+        "ggsans-ExtraBoldItalic": "?raw=1",
+        "ggsans-Medium": "?raw=1",
+        "ggsans-MediumItalic": "?raw=1",
+        "ggsans-Normal": "?raw=1",
+        "ggsans-NormalItalic": "?raw=1",
+        "ggsans-Semibold": "?raw=1",
+        "ggsans-SemiboldItalic": "?raw=1",
+        "NotoSans-Bold": "?raw=1",
+        "NotoSans-ExtraBold": "?raw=1",
+        "NotoSans-Medium": "?raw=1",
+        "NotoSans-Normal": "?raw=1",
+        "NotoSans-NormalItalic": "?raw=1",
+        "NotoSans-Semibold": "?raw=1",
+        "SourceCodePro-Semibold": "?raw=1"
+    }
+}
