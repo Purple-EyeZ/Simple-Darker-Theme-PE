@@ -34,22 +34,10 @@
         "POLLS_VOTED_FILL": [
             "#0000ff"
         ],
-        "MENU_ITEM_DEFAULT_HOVER_BG": [
-            "#0000ff"
-        ],
-        "MENTION_BACKGROUND": [
-            "#0000ff"
-        ],
         "BUTTON_OUTLINE_BRAND_BORDER_HOVER": [
             "#00ff00"
         ],
         "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
-            "#00ff00"
-        ],
-        "TEXT_MUTED": [
-            "#ff0000"
-        ],
-        "TEXT_SECONDARY": [
             "#00ff00"
         ],
         "BG_BRAND": [
@@ -72,6 +60,15 @@
         ]
     },
     "rawColors": {
+        "BRAND_360": "#9233ff",
+        "BRAND_500": "#9233ff",
+        "PLUM_16": "#121113",
+        "PLUM_17": "131316",
+        "PLUM_20": "0c0c0d",
+        "PLUM_24": "#242424",
+        "PRIMARY_600": "#0b080d",
+        "PRIMARY_660": "#141315",
+        "PRIMARY_800": "#171618"
     },
     "spec": 2
 }
