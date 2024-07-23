@@ -31,26 +31,26 @@
         "CARD_SECONDARY_BG": [
             "#141315"
         ],
-        "CARD_PRIMARY_BG": [
-            "#141315"
+        "POLLS_VOTED_FILL": [
+            "#00ff00"
         ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#8c8c8c20"
+        "MENU_ITEM_DEFAULT_HOVER_BG": [
+            "#00ff00"
         ],
-        "EMBED_BACKGROUND_ALTERNATE": [
-            "#161618"
+        "MENTION_BACKGROUND": [
+            "#00ff00"
         ],
-        "EMBED_BACKGROUND": [
-            "#161618"
+        "BUTTON_OUTLINE_BRAND_BORDER_HOVER": [
+            "#00ff00"
         ],
-        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#141315"
+        "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
+            "#00ff00"
         ],
-        "PANEL_BG": [
-            "#0f0f10"
+        "BUTTON_OUTLINE_BRAND_BORDER": [
+            "#00ff00"
         ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#4f0094"
+        "BG_BRAND": [
+            "#00ff00"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#00ff00"
@@ -64,8 +64,8 @@
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
             "#1500ff"
         ],
-        "REDESIGN_BUTTON_SECONDARY_TEXT": [
-            "#dbdee1"
+        "BADGE_BRAND_TEXT": [
+            "#00ff00"
         ],
         "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
             "#00ff00"
@@ -73,8 +73,8 @@
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
             "#9233ff"
         ],
-        "INTERACTIVE_ACTIVE": [
-            "#9233ff"
+        "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
+            "#00ff00"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#00ff00"
