@@ -32,13 +32,13 @@
             "#141315"
         ],
         "POLLS_VOTED_FILL": [
-            "#ff0000"
+            "#0000ff"
         ],
         "MENU_ITEM_DEFAULT_HOVER_BG": [
-            "#ff0000"
+            "#0000ff"
         ],
         "MENTION_BACKGROUND": [
-            "#ff0000"
+            "#0000ff"
         ],
         "BUTTON_OUTLINE_BRAND_BORDER_HOVER": [
             "#00ff00"
@@ -56,19 +56,19 @@
             "#00ff00"
         ],
         "REDESIGN_BUTTON_SELECTED_TEXT": [
-            "#ff0000"
+            "#0000ff"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "#ff0000"
+            "#0000ff"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
             "#1500ff"
         ],
         "BADGE_BRAND_TEXT": [
-            "#ff0000"
+            "#0000ff"
         ],
         "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
-            "#ff0000"
+            "#0000ff"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
             "#9233ff"
