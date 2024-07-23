@@ -44,7 +44,7 @@
             "#141315"
         ],
         "CHANNEL_ICON": [
-            "#9233ff65"
+            "#7809f665"
         ],
         "EMBED_BACKGROUND": [
             "#161618"
@@ -53,13 +53,16 @@
             "#161618"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#9233ff"
+            "#7809f6"
         ],
         "INTERACTIVE_NORMAL": [
-            "#9233ff"
+            "#7809f6"
         ],
         "PANEL_BG": [
             "#0f0f10"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#5300b3"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#4f0094"
@@ -67,11 +70,14 @@
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#4f0094"
         ],
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+            "#6c08dd"
+        ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#9233ff"
+            "#7809f6"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#801bf3"
@@ -87,8 +93,8 @@
         ]
     },
     "rawColors": {
-        "BRAND_360": "#9233ff",
-        "BRAND_500": "#9233ff",
+        "BRAND_360": "#7809f6",
+        "BRAND_500": "#7809f6",
         "PLUM_16": "#121113",
         "PLUM_17": "131316",
         "PLUM_20": "0c0c0d",
