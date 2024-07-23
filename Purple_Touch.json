@@ -61,11 +61,17 @@
         "PANEL_BG": [
             "#0f0f10"
         ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#39007a"
+        ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#4f0094"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#4f0094"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+            "#ae52ff"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
