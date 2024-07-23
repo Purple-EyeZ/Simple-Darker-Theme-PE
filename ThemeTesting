@@ -19,7 +19,7 @@
         "BACKGROUND_SECONDARY": [
             "#212121"
         ],
-        "BG_BASE_TERTIARY": [
+        "BACKGROUND_SECONDARY_ALT": [
             "#0000ff"
         ],
         "BG_BASE_PRIMARY": [
