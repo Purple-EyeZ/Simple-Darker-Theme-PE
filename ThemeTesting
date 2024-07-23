@@ -82,8 +82,8 @@
         "INTERACTIVE_NORMAL": [
             "#9233ff"
         ],
-        "CHANNEL_ICON": [
-            "#9233ff65"
+        "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
+            "#00ff00"
         ]
     },
     "rawColors": {
