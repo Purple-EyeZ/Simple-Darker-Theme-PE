@@ -58,16 +58,16 @@
         "TEXT_NORMAL": [
             "#dbdee1"
         ],
-        "TEXT_PRIMARY": [
-            "#dbdee1"
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+            "#00ff00"
         ],
-        "TEXT_SECONDARY": [
-            "#b5bac1"
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#00ff00"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
         ],
-        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+        "REDESIGN_BUTTON_PRIMARY_ALT_PRESSED_BORDER": [
             "#801bf3"
         ],
         "REDESIGN_BUTTON_PRIMARY_ALT_PRESSED_BACKGROUND": [
