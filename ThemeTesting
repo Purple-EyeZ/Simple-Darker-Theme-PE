@@ -49,6 +49,9 @@
         "TEXT_MUTED": [
             "#ffffff"
         ],
+        "TEXT_SECONDARY": [
+            "#00ff00"
+        ],
         "BG_BRAND": [
             "#ff0000"
         ],
