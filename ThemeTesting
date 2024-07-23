@@ -46,13 +46,13 @@
         "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
             "#00ff00"
         ],
-        "BUTTON_OUTLINE_BRAND_BORDER": [
+        "TEXT_MUTED": [
             "#00ff00"
         ],
         "BG_BRAND": [
             "#ff0000"
         ],
-        "REDESIGN_INPUT_CONTROL_SELECTED": [
+        "TEXT_NORMAL": [
             "#00ff00"
         ],
         "REDESIGN_BUTTON_SELECTED_TEXT": [
@@ -64,7 +64,7 @@
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
             "#1500ff"
         ],
-        "BADGE_BRAND_TEXT": [
+        "TEXT_PRIMARY": [
             "#0000ff"
         ],
         "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
@@ -73,7 +73,7 @@
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
             "#9233ff"
         ],
-        "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
+        "TEXT_SECONDARY": [
             "#00ff00"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
