@@ -31,6 +31,12 @@
         "CARD_SECONDARY_BG": [
             "#141315"
         ],
+        "INTERACTIVE_ACTIVE": [
+            "#9233ff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#9233ff"
+        ],
         "POLLS_VOTED_FILL": [
             "#0000ff"
         ],
