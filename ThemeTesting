@@ -59,10 +59,10 @@
             "#dbdee1"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "#00ff00"
+            "#ff0000"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#00ff00"
+            "#1500ff"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
