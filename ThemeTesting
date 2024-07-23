@@ -52,11 +52,11 @@
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#4f0094"
         ],
-        "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#4f0094"
+        "REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#00ff00"
         ],
-        "TEXT_NORMAL": [
-            "#dbdee1"
+        "REDESIGN_BUTTON_SELECTED_TEXT": [
+            "#00ff00"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
             "#ff0000"
@@ -67,8 +67,8 @@
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
         ],
-        "REDESIGN_BUTTON_PRIMARY_ALT_PRESSED_BORDER": [
-            "#801bf3"
+        "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
+            "#00ff00"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
             "#9233ff"
@@ -76,11 +76,11 @@
         "INTERACTIVE_ACTIVE": [
             "#9233ff"
         ],
-        "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
-            "#000000"
+        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+            "#00ff00"
         ],
-        "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
-            "#000000"
+        "REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND": [
+            "#00ff00"
         ]
     },
     "rawColors": {
