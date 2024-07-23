@@ -47,13 +47,13 @@
             "#00ff00"
         ],
         "TEXT_MUTED": [
-            "#ff0000"
+            "#ffffff"
         ],
         "BG_BRAND": [
             "#ff0000"
         ],
         "TEXT_NORMAL": [
-            "#00ff00"
+            "#ff0000"
         ],
         "REDESIGN_BUTTON_SELECTED_TEXT": [
             "#0000ff"
@@ -65,7 +65,7 @@
             "#1500ff"
         ],
         "TEXT_PRIMARY": [
-            "#0000ff"
+            "#00ff00"
         ],
         "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
             "#0000ff"
@@ -74,7 +74,7 @@
             "#9233ff"
         ],
         "TEXT_SECONDARY": [
-            "#00ff00"
+            "#0000ff"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#00ff00"
