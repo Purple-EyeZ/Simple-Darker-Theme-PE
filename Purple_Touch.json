@@ -35,7 +35,7 @@
             "#0c0c0d"
         ],
         "BG_BRAND": [
-            "#5865f2"
+            "#7809f6"
         ],
         "CARD_PRIMARY_BG": [
             "#141315"
@@ -62,7 +62,7 @@
             "#0f0f10"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#5300b3"
+            "#450094"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#4f0094"
@@ -71,7 +71,7 @@
             "#4f0094"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "#6c08dd"
+            "#7809f6"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
@@ -94,7 +94,6 @@
     },
     "rawColors": {
         "BRAND_360": "#7809f6",
-        "BRAND_500": "#7809f6",
         "PLUM_16": "#121113",
         "PLUM_17": "131316",
         "PLUM_20": "0c0c0d",
