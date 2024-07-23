@@ -70,8 +70,8 @@
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#801bf3"
         ],
-        "BG_BRAND": [
-            "#5865f2"
+        "REDESIGN_BUTTON_PRIMARY_ALT_PRESSED_BACKGROUND": [
+            "#00ff00"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
             "#9233ff"
