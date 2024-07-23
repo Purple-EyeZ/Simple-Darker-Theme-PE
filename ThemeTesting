@@ -70,9 +70,6 @@
         "REDESIGN_BUTTON_PRIMARY_ALT_PRESSED_BORDER": [
             "#801bf3"
         ],
-        "REDESIGN_BUTTON_PRIMARY_ALT_PRESSED_BACKGROUND": [
-            "#00ff00"
-        ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
             "#9233ff"
         ],
@@ -80,10 +77,10 @@
             "#9233ff"
         ],
         "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
-            "#00ff00"
+            "#000000"
         ],
         "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
-            "#00ff00"
+            "#000000"
         ]
     },
     "rawColors": {
