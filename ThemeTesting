@@ -52,9 +52,6 @@
         "BG_BRAND": [
             "#ff0000"
         ],
-        "TEXT_NORMAL": [
-            "#ff0000"
-        ],
         "REDESIGN_BUTTON_SELECTED_TEXT": [
             "#0000ff"
         ],
@@ -64,34 +61,14 @@
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
             "#1500ff"
         ],
-        "TEXT_PRIMARY": [
-            "#00ff00"
-        ],
         "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
             "#0000ff"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
             "#9233ff"
-        ],
-        "TEXT_SECONDARY": [
-            "#0000ff"
-        ],
-        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#00ff00"
-        ],
-        "REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND": [
-            "#00ff00"
         ]
     },
     "rawColors": {
-        "PRIMARY_600": "#0b080d",
-        "PRIMARY_660": "#141315",
-        "PRIMARY_800": "#171618",
-        "PLUM_16": "#121113",
-        "PLUM_17": "131316",
-        "PLUM_20": "0c0c0d",
-        "PLUM_24": "#242424",
-        "BRAND_360": "#9233ff"
     },
     "spec": 2
 }
