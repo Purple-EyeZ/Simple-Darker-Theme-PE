@@ -19,8 +19,8 @@
         "BACKGROUND_SECONDARY": [
             "#212121"
         ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#0c0c0e"
+        "BG_BASE_TERTIARY": [
+            "#0000ff"
         ],
         "BG_BASE_PRIMARY": [
             "#0c0c0d"
