@@ -76,5 +76,15 @@
         "PRIMARY_660": "#141315",
         "PRIMARY_800": "#171618"
     },
-    "spec": 2
+    "spec": 2,
+    "plus": {
+        "version": 0,
+        "icons": {
+            "BellIcon": [
+                "#00ff00",
+                "#00ff00",
+                "#00ff00"
+            ]
+        }
+    }
 }
