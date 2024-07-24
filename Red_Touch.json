@@ -35,7 +35,7 @@
             "#0c0c0d"
         ],
         "BG_BRAND": [
-            "#cc003385"
+            "#cc002285"
         ],
         "CARD_PRIMARY_BG": [
             "#141315"
@@ -44,7 +44,7 @@
             "#141315"
         ],
         "CHANNEL_ICON": [
-            "#cc003366"
+            "#cc002266"
         ],
         "EMBED_BACKGROUND": [
             "#161618"
@@ -53,10 +53,10 @@
             "#161618"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#cc0033"
+            "#cc0022"
         ],
         "INTERACTIVE_NORMAL": [
-            "#cc0033"
+            "#cc0022"
         ],
         "PANEL_BG": [
             "#0f0f10"
@@ -77,7 +77,7 @@
             "#dbdee1"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#cc0033"
+            "#cc0022"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#b3003b"
@@ -96,8 +96,8 @@
         ]
     },
     "rawColors": {
-        "BRAND_360": "#cc0033",
-        "BRAND_500": "#cc0033",
+        "BRAND_360": "#cc0022",
+        "BRAND_500": "#cc0022",
         "PLUM_16": "#121113",
         "PLUM_17": "#131316",
         "PLUM_20": "#0c0c0d",
