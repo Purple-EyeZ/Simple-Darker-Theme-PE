@@ -11,13 +11,13 @@
             "#141315"
         ],
         "ANDROID_RIPPLE": [
-            "#ff381480"
+            "#ff381460"
         ],
         "BACKGROUND_ACCENT": [
             "#2e2e2e"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#ff7f5020"
+            "#8c8c8c20"
         ],
         "BACKGROUND_PRIMARY": [
             "#0c0c0d"
@@ -80,7 +80,7 @@
             "#ff4500"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#E68C00"
+            "#DE8400"
         ],
         "TEXT_NORMAL": [
             "#dbdee1"
