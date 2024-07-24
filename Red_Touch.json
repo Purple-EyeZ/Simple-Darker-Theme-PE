@@ -35,7 +35,7 @@
             "#0c0c0d"
         ],
         "BG_BRAND": [
-            "#5865f2"
+            "#cc003385"
         ],
         "CARD_PRIMARY_BG": [
             "#141315"
@@ -61,11 +61,17 @@
         "PANEL_BG": [
             "#0f0f10"
         ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#990000"
+        ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#800033"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#800033"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+            "#E61A3C"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
