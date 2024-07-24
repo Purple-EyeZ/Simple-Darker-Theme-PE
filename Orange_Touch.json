@@ -11,7 +11,7 @@
             "#141315"
         ],
         "ANDROID_RIPPLE": [
-            "#ff634780"
+            "#ff381480"
         ],
         "BACKGROUND_ACCENT": [
             "#2e2e2e"
@@ -65,10 +65,10 @@
             "#ff8c00"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#ff7f50"
+            "#FF7833"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#ff7f50"
+            "#FF7833"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
             "#ff4500"
@@ -80,7 +80,7 @@
             "#ff4500"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#ffa500"
+            "#E68C00"
         ],
         "TEXT_NORMAL": [
             "#dbdee1"
