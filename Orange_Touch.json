@@ -52,6 +52,9 @@
         "EMBED_BACKGROUND_ALTERNATE": [
             "#161618"
         ],
+        "HEADER_SECONDARY": [
+            "#DE8400"
+        ],
         "INTERACTIVE_ACTIVE": [
             "#ff4500"
         ],
