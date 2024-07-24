@@ -1,0 +1,107 @@
+{
+    "name": "SDT Colour Touch TESTING",
+    "description": "Orange Touch TESTING",
+    "authors": [
+        {
+            "name": "Purple_Ξye™"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#141315"
+        ],
+        "ANDROID_RIPPLE": [
+            "#ff634780"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#2e2e2e"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#ff7f5020"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#0c0c0d"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#212121"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0c0c0e"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#0c0c0d"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#0c0c0d"
+        ],
+        "BG_BRAND": [
+            "#ff450095"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#141315"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#141315"
+        ],
+        "CHANNEL_ICON": [
+            "#ff450065"
+        ],
+        "EMBED_BACKGROUND": [
+            "#161618"
+        ],
+        "EMBED_BACKGROUND_ALTERNATE": [
+            "#161618"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ff4500"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ff4500"
+        ],
+        "PANEL_BG": [
+            "#0f0f10"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#ff8c00"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#ff7f50"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#ff7f50"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+            "#ff4500"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#dbdee1"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#ff4500"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#ffa500"
+        ],
+        "TEXT_NORMAL": [
+            "#dbdee1"
+        ],
+        "TEXT_PRIMARY": [
+            "#dbdee1"
+        ],
+        "TEXT_SECONDARY": [
+            "#b5bac1"
+        ]
+    },
+    "rawColors": {
+        "BRAND_360": "#ff4500",
+        "BRAND_500": "#ff4500",
+        "PLUM_16": "#121113",
+        "PLUM_17": "131316",
+        "PLUM_20": "0c0c0d",
+        "PLUM_24": "#242424",
+        "PRIMARY_600": "#0b080d",
+        "PRIMARY_660": "#141315",
+        "PRIMARY_800": "#171618"
+    },
+    "spec": 2
+}
