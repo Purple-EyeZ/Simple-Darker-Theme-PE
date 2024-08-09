@@ -7,74 +7,11 @@
         }
     ],
     "semanticColors": {
-        "ANDROID_RIPPLE": [
-            "#5300b390"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#2e2e2e"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#0c0c0d"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#212121"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#00ff00"
-        ],
-        "BG_BASE_PRIMARY": [
-            "#0c0c0d"
-        ],
         "BG_BASE_SECONDARY": [
             "#00ff00"
-        ],
-        "CARD_SECONDARY_BG": [
-            "#141315"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#9233ff"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#9233ff"
-        ],
-        "POLLS_VOTED_FILL": [
-            "#0000ff"
-        ],
-        "BUTTON_OUTLINE_BRAND_BORDER_HOVER": [
-            "#00ff00"
-        ],
-        "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
-            "#00ff00"
-        ],
-        "BG_BRAND": [
-            "#ff0000"
-        ],
-        "REDESIGN_BUTTON_SELECTED_TEXT": [
-            "#0000ff"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "#0000ff"
-        ],
-        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#1500ff"
-        ],
-        "REDESIGN_BUTTON_SELECTED_BACKGROUND": [
-            "#0000ff"
-        ],
-        "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#9233ff"
         ]
     },
     "rawColors": {
-        "BRAND_360": "#9233ff",
-        "BRAND_500": "#9233ff",
-        "PLUM_16": "#121113",
-        "PLUM_17": "131316",
-        "PLUM_20": "0c0c0d",
-        "PLUM_24": "#242424",
-        "PRIMARY_600": "#0b080d",
-        "PRIMARY_660": "#141315",
-        "PRIMARY_800": "#171618"
     },
     "spec": 2,
     "plus": {
