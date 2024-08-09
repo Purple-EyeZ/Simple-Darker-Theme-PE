@@ -7,13 +7,10 @@
         }
     ],
     "semanticColors": {
-        "BG_BASE_SECONDARY": [
-            "#00ff00"
-        ]
     },
     "rawColors": {
         "PRIMARY_100": "#00ff00",
-        "BRAND_500": "#0000ff"
+        "BRAND_500": "#ff0000"
     },
     "spec": 2,
     "plus": {
