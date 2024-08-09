@@ -9,15 +9,11 @@
     "semanticColors": {
         "BG_BASE_SECONDARY": [
             "#00ff00"
-        ],
-    "CARD_PRIMARY_BG": [
-         "#ff0000"
-    ],
-"CARD_SECONDARY_BG": [
-"#0000ff"
-]
+        ]
     },
     "rawColors": {
+        "BRAND_360": "#00ff00",
+        "BRAND_500": "#0000ff"
     },
     "spec": 2,
     "plus": {
