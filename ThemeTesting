@@ -12,7 +12,7 @@
         ]
     },
     "rawColors": {
-        "BRAND_360": "#00ff00",
+        "PRIMARY_100": "#00ff00",
         "BRAND_500": "#0000ff"
     },
     "spec": 2,
