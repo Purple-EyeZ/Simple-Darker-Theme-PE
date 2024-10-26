@@ -8,11 +8,11 @@
     ],
     "semanticColors": {
         "BG_BASE_PRIMARY": [
-            "transparent"
+            "#00ff00"
         ]
     },
     "rawColors": {
-        "PLUM_17": "transparent"
+        "PLUM_17": "#00ff00"
     },
     "spec": 2
 }
