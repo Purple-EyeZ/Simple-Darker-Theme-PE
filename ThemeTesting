@@ -7,20 +7,12 @@
         }
     ],
     "semanticColors": {
+        "BG_BASE_PRIMARY": [
+            "transparent"
+        ]
     },
     "rawColors": {
-        "PRIMARY_100": "#00ff00",
-        "BRAND_500": "#ff0000"
+        "PLUM_17": "transparent"
     },
-    "spec": 2,
-    "plus": {
-        "version": 0,
-        "icons": {
-            "ServerIcon": [
-                "#00ff00",
-                "#00ff00",
-                "#00ff00"
-            ]
-        }
-    }
+    "spec": 2
 }
