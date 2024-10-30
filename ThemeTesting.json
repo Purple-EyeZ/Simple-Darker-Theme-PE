@@ -9,6 +9,9 @@
     "semanticColors": {
         "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
             "#00ff00"
+        ],
+        "CHAT_SWIPE_TO_REPLY_GRADIENT_BACKGROUND": [
+            "#0000ff"
         ]
     },
     "rawColors": {
