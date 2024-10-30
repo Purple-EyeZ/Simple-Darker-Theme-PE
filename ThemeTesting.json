@@ -6,14 +6,9 @@
             "name": "Purple_Ξye™"
         }
     ],
-    "semanticColors": {
-        "BACKGROUND_NESTED_FLOATING": [
-            "#00ff00"
-        ],
-        "CHAT_SWIPE_TO_REPLY_GRADIENT_BACKGROUND": [
-            "#0000ff"
-        ]
+    "semanticColors": {},
+    "rawColors": {
+        "PLUM_22": "#00ff00"
     },
-    "rawColors": {},
     "spec": 2
 }
