@@ -7,15 +7,13 @@
         }
     ],
     "semanticColors": {
-        "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
+        "BACKGROUND_NESTED_FLOATING": [
             "#00ff00"
         ],
         "CHAT_SWIPE_TO_REPLY_GRADIENT_BACKGROUND": [
             "#0000ff"
         ]
     },
-    "rawColors": {
-        "PLUM_17": "#ff0000"
-    },
+    "rawColors": {},
     "spec": 2
 }
