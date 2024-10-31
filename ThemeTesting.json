@@ -6,7 +6,29 @@
             "name": "Purple_Ξye™"
         }
     ],
-    "semanticColors": {},
+    "semanticColors": {
+        "BACKGROUND_FLOATING": [
+            "#00ff00"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#00ff00"
+        ],
+        "BG_SURFACE_RAISED": [
+            "#00ff00"
+        ],
+        "BLUR_FALLBACK_PRESSED": [
+            "#00ff00"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#00ff00"
+        ],
+        "EMBED_BACKGROUND": [
+            "#00ff00"
+        ],
+        "HOME_BACKGROUND": [
+            "#00ff00"
+        ]
+    },
     "rawColors": {
         "PLUM_22": "#00ff00"
     },
