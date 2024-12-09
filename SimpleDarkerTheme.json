@@ -17,7 +17,7 @@
             "#8c8c8c20"
         ],
         "BACKGROUND_PRIMARY": [
-            "0c0c0d"
+            "#0c0c0d"
         ],
         "BACKGROUND_SECONDARY": [
             "#212121"
@@ -30,6 +30,9 @@
         ],
         "BG_BASE_SECONDARY": [
             "#0c0c0d"
+        ],
+        "BG_SURFACE_RAISED": [
+            "#141315"
         ],
         "CARD_PRIMARY_BG": [
             "#141315"
@@ -55,8 +58,8 @@
     },
     "rawColors": {
         "PLUM_16": "#121113",
-        "PLUM_17": "161519",
-        "PLUM_20": "0c0c0d",
+        "PLUM_17": "#161519",
+        "PLUM_20": "#0c0c0d",
         "PLUM_24": "#242424",
         "PRIMARY_600": "#0b080d",
         "PRIMARY_660": "#141315",
