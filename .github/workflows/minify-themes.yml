@@ -1,0 +1,40 @@
+name: Minify JSON themes
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  minify-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Minify and rename JSON files
+      run: |
+        mkdir -p minified_themes
+        for file in $(find . -name "*.json" ! -path "./minified_themes/*" ! -path "./Fonts/*"); do
+          base_name=$(basename $file)
+          target="minified_themes/${base_name%.json}_min.json"
+          node -e "const fs = require('fs'); const json = fs.readFileSync('$file', 'utf-8'); const min = JSON.stringify(JSON.parse(json)); fs.writeFileSync('$target', min);"
+        done
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add minified_themes/*
+        git commit -m "Updated minified JSON themes"
+        git push
